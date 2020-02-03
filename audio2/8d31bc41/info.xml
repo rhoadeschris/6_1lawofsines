@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\4cd4f0f4.wav"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="123347" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+</mediaClip>
